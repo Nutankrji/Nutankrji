@@ -1,20 +1,37 @@
 <div align="center">
 
-# 👨‍💻 Nutan Kumar
-### **Senior DevOps Engineer | Cloud & Infrastructure Specialist | SRE**
-**8+ Years Production Cloud & DevOps Experience | 12+ Years Overall IT Infrastructure**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nutan-kumar-051b94102/)
-[![Naukri.com](https://img.shields.io/badge/Naukri-Candidate_Profile-003366?style=for-the-badge&logo=naukridotcom&logoColor=white)](https://www.naukri.com/mnjuser/profile)
-[![Download Resume](https://img.shields.io/badge/Resume-Download_CV-28a745?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Nutan_Kumar_DevOps_Resume.pdf)
-[![Email](https://img.shields.io/badge/Email-nutanfromgola@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nutanfromgola@gmail.com)
-[![Call](https://img.shields.io/badge/Phone-+91_7015346707-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917015346707)
+<!-- Moving Wave Banner (Water-Type Header) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24,30&height=220&section=header&text=NUTAN%20KUMAR&fontSize=42&fontAlignY=36&desc=Senior%20DevOps%20Engineer%20%7C%20Cloud%20%26%20Infrastructure%20Architect&descAlignY=60&descSize=18" width="100%" />
 
 <br/>
 
-> **"Bridging developer agility with enterprise-grade infrastructure reliability, security, and automation."**
+<!-- Professional Headshot -->
+<a href="https://github.com/Nutankrji">
+  <img src="https://raw.githubusercontent.com/Nutankrji/Nutankrji/main/profile.png" alt="Nutan Kumar" width="170" height="170" style="border-radius: 50%; max-width: 100%;" />
+</a>
 
-📍 **Noida, Uttar Pradesh, India** | 💼 **Open to Senior DevOps / Lead / Platform Engineering Roles**
+<br/><br/>
+
+<!-- Continuous Lighted / Glowing Typing Animation -->
+<a href="https://github.com/Nutankrji">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=00F0FF&center=true&vCenter=true&width=750&height=50&lines=%E2%9A%A1+Senior+DevOps+%26+Cloud+Infrastructure+Engineer;%E2%98%81%EF%B8%8F+AWS+%26+Microsoft+Azure+Production+Environments;%E2%9A%99%EF%B8%8F+Terraform+IaC+%7C+Docker+%7C+Kubernetes+(EKS%2FAKS);%F0%9F%94%84+Automated+CI%2FCD+Pipelines+(Jenkins%2C+GitHub+Actions);%F0%9F%93%8A+Observability+%26+Monitoring+(Prometheus%2C+Grafana%2C+ELK);%F0%9F%92%BC+12%2B+Yrs+IT+%7C+8%2B+Yrs+DevOps+%7C+Noida%2C+India" alt="Nutan Kumar Dynamic Typing" />
+</a>
+
+<br/><br/>
+
+<!-- Action & Hiring Badges (Guaranteed Working Direct URLs) -->
+[![Download Resume (Direct PDF)](https://img.shields.io/badge/Resume-Direct_Download_PDF-28a745?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Nutankrji/Nutankrji/main/Nutan_Kumar_DevOps_Resume.pdf)
+[![View Resume on GitHub](https://img.shields.io/badge/Resume-View_on_GitHub-0969da?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nutankrji/Nutankrji/blob/main/Nutan_Kumar_DevOps_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nutan-kumar-051b94102/)
+[![Naukri.com](https://img.shields.io/badge/Naukri-Candidate_Profile-003366?style=for-the-badge&logo=naukridotcom&logoColor=white)](https://www.naukri.com/mnjuser/profile)
+[![Email](https://img.shields.io/badge/Email-nutanfromgola@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nutanfromgola@gmail.com)
+[![Call / WhatsApp](https://img.shields.io/badge/Phone-+91_7015346707-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917015346707)
+
+<br/><br/>
+
+> **"Bridging developer velocity with enterprise-grade cloud reliability, zero-downtime releases, and automated scalability."**
+
+📍 **Noida, Uttar Pradesh, India** &nbsp;|&nbsp; 💼 **Open to Senior DevOps / Lead / Platform Engineering Roles**
 
 ---
 
@@ -156,12 +173,20 @@ With a strong foundation starting in **enterprise Linux system administration an
 
 ---
 
-## 📬 Let's Connect & Collaborate
+## 📬 Direct Contact & Profiles
 
 I am always open to discussing cloud architecture, DevOps automation pipelines, SRE challenges, or exploring senior engineering leadership opportunities.
 
-- 📄 **Direct Resume (PDF):** [View / Download Nutan Kumar CV](./Nutan_Kumar_DevOps_Resume.pdf)
-- 💼 **LinkedIn:** [Nutan Kumar on LinkedIn](https://www.linkedin.com/in/nutan-kumar-051b94102/)
-- 🌐 **Naukri.com:** [Candidate Profile on Naukri](https://www.naukri.com/mnjuser/profile)
+- 📥 **Download CV (Direct PDF):** [Download Official Resume](https://raw.githubusercontent.com/Nutankrji/Nutankrji/main/Nutan_Kumar_DevOps_Resume.pdf)
+- 👁️ **Preview CV on GitHub:** [View PDF on GitHub](https://github.com/Nutankrji/Nutankrji/blob/main/Nutan_Kumar_DevOps_Resume.pdf)
+- 💼 **LinkedIn Profile:** [Nutan Kumar on LinkedIn](https://www.linkedin.com/in/nutan-kumar-051b94102/)
+- 🌐 **Naukri.com Profile:** [Candidate Profile on Naukri](https://www.naukri.com/mnjuser/profile)
 - 📧 **Direct Email:** [nutanfromgola@gmail.com](mailto:nutanfromgola@gmail.com)
-- 📱 **Direct Call / WhatsApp:** [+91-7015346707](https://wa.me/917015346707)
+- 📱 **Call / WhatsApp:** [+91-7015346707](https://wa.me/917015346707)
+
+<br/>
+
+<!-- Moving Wave Banner (Water-Type Footer) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,24,30&height=120&section=footer" width="100%" />
+</div>
