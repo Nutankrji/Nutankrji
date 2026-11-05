@@ -5,10 +5,42 @@
 
 <br/>
 
+<!-- ========================================== -->
+<!-- 🎯 RECRUITER & HIRING QUICK ACTION BUTTONS -->
+<!-- ========================================== -->
+
+<a href="https://raw.githubusercontent.com/Nutankrji/Nutankrji/main/Nutan_Kumar_DevOps_Resume.pdf">
+  <img src="https://img.shields.io/badge/📥_DOWNLOAD_CV-DIRECT_PDF-28a745?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="38" />
+</a>
+&nbsp;
+<a href="https://github.com/Nutankrji/Nutankrji/blob/main/Nutan_Kumar_DevOps_Resume.pdf">
+  <img src="https://img.shields.io/badge/👁️_VIEW_CV-GITHUB_PREVIEW-0969da?style=for-the-badge&logo=github&logoColor=white" height="38" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/nutan-kumar-051b94102/">
+  <img src="https://img.shields.io/badge/💼_LINKEDIN-NUTAN_KUMAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
+</a>
+&nbsp;
+<a href="https://www.naukri.com/mnjuser/profile">
+  <img src="https://img.shields.io/badge/🌐_NAUKRI.COM-PROFILE-FF7518?style=for-the-badge&logo=naukridotcom&logoColor=white" height="38" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:nutanfromgola@gmail.com">
+  <img src="https://img.shields.io/badge/📧_EMAIL-nutanfromgola@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="34" />
+</a>
+&nbsp;
+<a href="https://wa.me/917015346707">
+  <img src="https://img.shields.io/badge/📱_WHATSAPP_%2F_CALL-+91_7015346707-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="34" />
+</a>
+
+<br/><br/>
+
 <!-- Highlighted Glowing Name & Executive Identity -->
 # ⚡ NUTAN KUMAR ⚡
 ### **Senior DevOps Engineer & Multi-Cloud Infrastructure Architect | SRE**
-**🏢 Senior DevOps Lead at PowerHF India Pvt. Ltd. (Joined Feb 22, 2021 – Present)**
+**🏢 Senior DevOps Lead at PowerHF India Pvt. Ltd. (Joined Feb 22, 2021 – Present | 5+ Years)**
 <br/>
 **12+ Years Overall IT Infrastructure Experience | 8+ Years Hands-on Production Cloud & DevOps**
 
@@ -27,16 +59,6 @@
 <a href="https://github.com/Nutankrji">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=1100&color=00F0FF&center=true&vCenter=true&width=800&height=50&lines=%E2%9A%A1+Senior+DevOps+Engineer+%26+Cloud+Infrastructure+Lead;%F0%9F%8F%A2+PowerHF+India+Pvt.+Ltd.+(Joined+Feb+22%2C+2021+%E2%80%93+Present);%E2%98%81%EF%B8%8F+AWS+%26+Microsoft+Azure+Enterprise+Environments;%E2%9A%99%EF%B8%8F+Terraform+Enterprise+IaC+%7C+Docker+%7C+Kubernetes+(EKS%2FAKS);%F0%9F%94%84+Zero-Downtime+CI%2FCD+Pipelines+(Jenkins%2C+GitHub+Actions);%F0%9F%93%8A+Observability+%26+Incident+Triage+(Prometheus%2C+Grafana%2C+ELK);%F0%9F%9B%A1%EF%B8%8F+12%2B+Yrs+IT+Infra+%7C+8%2B+Yrs+DevOps+%7C+Noida%2C+NCR%2C+India" alt="Nutan Kumar Dynamic Typing" />
 </a>
-
-<br/><br/>
-
-<!-- Action & Hiring Badges (Guaranteed Working Direct URLs) -->
-[![Download Resume (Direct PDF)](https://img.shields.io/badge/Resume-Download_Direct_PDF-28a745?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Nutankrji/Nutankrji/main/Nutan_Kumar_DevOps_Resume.pdf)
-[![View Resume on GitHub](https://img.shields.io/badge/Resume-View_on_GitHub-0969da?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nutankrji/Nutankrji/blob/main/Nutan_Kumar_DevOps_Resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nutan_Kumar_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nutan-kumar-051b94102/)
-[![Naukri.com](https://img.shields.io/badge/Naukri-Candidate_Profile-003366?style=for-the-badge&logo=naukridotcom&logoColor=white)](https://www.naukri.com/mnjuser/profile)
-[![Email](https://img.shields.io/badge/Email-nutanfromgola@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nutanfromgola@gmail.com)
-[![Call / WhatsApp](https://img.shields.io/badge/Phone-+91_7015346707-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917015346707)
 
 <br/><br/>
 
